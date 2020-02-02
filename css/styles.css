@@ -1,0 +1,232 @@
+.center-form{
+    background-color: #f8f9fa;
+    text-align: center;
+    margin: 3% auto;
+    padding: 1% 2%;
+    width: 45%;
+}
+.center-form input{
+    text-align: center;
+}
+.dropdown-menu{
+    margin-left: -40%;
+}
+.img-pfp{
+    border: 2px solid grey;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.account-all{
+    background-color: #f8f9fa;
+    margin: 1% auto;
+    padding: 1% 2%;
+    width: 50%;
+}
+.post-all{
+    padding: 1% 2%;
+    background-color: #f8f9fa;
+    width: 60%;
+    margin: 1% auto;
+}
+.post-index{
+    border: 1px solid lightgray;
+    padding-bottom: 1%;
+    margin: 2% auto;
+    background-color: #f8f9fa;
+    text-underline: #f8f9fa;
+    color: black;
+}
+.post-index-3{
+    border: 1px solid lightgray;
+    margin: 2% auto;
+    background-color: #f8f9fa;
+    text-underline: #f8f9fa;
+    color: black;
+}
+.post-index-3 img{
+    margin: 1% 2%;
+    border: 1px solid lightgray;
+}
+.post-index img{
+    margin: 0.5%;
+    border: 1px solid lightgray;
+}
+.full-post{
+    background-color: #f8f9fa;
+    margin: 0 auto;
+    padding: 2% 2%;
+}
+.post-creator{
+    margin: 2% auto;
+    background-color: #f8f9fa;
+    padding: 2% 2%;
+    font-size: 20px;
+}
+.post-creator img{
+    border-radius: 50%;
+    border: 2px solid lightgray;
+}
+.fullpost-all{
+    margin: 4% auto;
+}
+.comment-text{
+    background-color: #f8f9fa;
+    margin: 1% auto;
+    height: 10%;
+    border: 1px solid lightgray;
+}
+.comment-user{
+    padding: 0.3% 0.8%;
+    opacity: 0.5;
+    width: 200%;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.comment-inhoud{
+    padding: 2% 2%;
+}
+/* ??? */
+.container a{
+    text-decoration: none;
+}
+.profile-account{
+    font-size: 20px;
+    width: 70%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 2% auto;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+.profile-account img{
+    border-radius: 50%;
+    border: 2px solid lightgray;
+}
+.container-account{
+    margin: 0 auto;
+    width: 70%;
+}
+.container-account a{
+    text-decoration: none;
+}
+.commentcreate-post{
+    margin-top: 1%;
+    background-color: #f8f9fa;
+    padding: 2% 1% 1% 1%;
+}
+.commentcreate-post textarea{
+    width: 100%;
+    margin-bottom: 1%;
+}
+.acc-left{
+    margin: 2% auto;
+    padding: 1% 1%;
+    background-color: #f8f9fa;
+    width: 70%;
+    text-align: center;
+    font-size: 20px;
+}
+.acc-left img{
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 120px;
+    height: 120px;
+}
+.acc-right{
+    background-color: #f8f9fa;
+    width: 40%;
+    height: 50%;
+    margin: 0 15%;
+    padding: 1% 1.5%;
+    position: absolute;
+    font-size: 15px;
+}
+.acc-right-2{
+    background-color: #f8f9fa;
+    width: 25%;
+    height: 50%;
+    margin: 0 60%;
+    padding: 1% 1.5%;
+    position: absolute;
+    font-size: 15px;
+}
+.acc-desc{
+    margin-left: 43%;
+}
+.acc-info{
+    margin-left: 37%;
+}
+
+.acc-choice{
+    text-align: center;
+}
+.acc-choice-2{
+
+}
+.comment-text-show{
+    background-color: #f8f9fa;
+    margin: 1% auto;
+    height: 10%;
+    border: 1px solid lightgray;
+}
+.comment-user-show{
+    padding: 0.3% 0.8%;
+    opacity: 0.5;
+    width: 200%;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.comment-inhoud-show{
+    padding: 2% 2%;
+}
+.comment-post-title{
+    padding: 0.3% 0.8%;
+    opacity: 0.5;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.edit-post{
+    position: absolute;
+    margin: -9% 61%;
+}
+.delete-post{
+    position: absolute;
+    margin: -10% 65%;
+}
+.index-post-title{
+    padding: 0 0.5%;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.index-post-text{
+    padding-left: 1%;
+    padding-right: 5%;
+}
+.post-index-2{
+
+}
+.flex{
+    flex-direction: row;
+}
+.nologin{
+    text-align: center;
+    margin: 10% auto;
+}
+.search-username{
+    width: 50%;
+    margin: 2% auto;
+}
+.search-username input{
+    text-align: center;
+}
+.confirmdel{
+    position: absolute;
+    padding: 1% 1%;
+    border: 1px solid black;
+    text-align: center;
+    margin: -30% 11%;
+    background-color: #f8f9fa;
+}
+.blur{
+    filter: blur(6px);
+}
